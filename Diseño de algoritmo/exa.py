@@ -1,4 +1,5 @@
 nombre =input("Escribe tu nombre: ")
+jose= "me llamo"
 c1=int(input("Escribe tu calificacion del Examen 1: "))
 c2=int(input("Escribe tu calificacion del Examen 2: "))
 c3=int(input("Escribe tu calificacion del Examen 3: "))
